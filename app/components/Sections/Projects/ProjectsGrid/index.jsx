@@ -56,6 +56,17 @@ function ProjectGrid() {
             url: "https://efarias03.github.io/PokeAPI-Consuming/"
         },
         {
+            title: "David 3D Model Viewer",
+            tags: [
+                "React.js",
+                "Next.js",
+                "CSS",
+            ],
+            description: "Just a simple example of a 3D model viewer using React Three Fiber.",
+            image: "davidmodelviewergif.gif",
+            url: "https://efarias03.github.io/PokeAPI-Consuming/"
+        },
+        {
             title: "Champions View",
             tags: [
                 "HTML5",
